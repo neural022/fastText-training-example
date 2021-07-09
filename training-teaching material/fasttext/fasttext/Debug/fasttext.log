@@ -1,0 +1,14 @@
+﻿  dictionary.cc
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(167): warning C4018: '<=': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(172): warning C4018: '>=': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(184): warning C4018: '<': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(272): warning C4018: '<': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(274): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(289): warning C4018: '<': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(291): warning C4018: '<': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(337): warning C4244: '引數': 將 'double' 轉換為 'fasttext::real'，由於類型不同，可能導致資料遺失
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(440): warning C4244: '正在初始化': 將 'double' 轉換為 'int32_t'，由於類型不同，可能導致資料遺失
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(474): warning C4018: '<': signed/unsigned 不相符
+c:\users\kao\documents\visual studio 2015\projects\fasttext\fasttext\dictionary.cc(475): warning C4018: '<': signed/unsigned 不相符
+  fasttext.vcxproj -> C:\Users\KAO\documents\visual studio 2015\Projects\fasttext\Debug\fasttext.exe
+  fasttext.vcxproj -> C:\Users\KAO\documents\visual studio 2015\Projects\fasttext\Debug\fasttext.pdb (Full PDB)
